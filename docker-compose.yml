@@ -13,7 +13,7 @@ services:
     volumes:
       - wordpress_data:/var/www/html
   db:
-    image: mariadb:latest
+    image : mariadb:latest
     container_name: db_mariadb
     restart: always
     environment:
