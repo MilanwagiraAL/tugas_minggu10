@@ -20,13 +20,13 @@ Jika ada yang salah, misalnya indentasi `image:` rusak, maka CI akan gagal (mera
 
 ## Bukti
 ### 1. CI Berhasil (Hijau)
-![Run Hijau](bukti1-run-hijau.png)
+![Run Hijau](bukti/1-run-hijau.png)
 
 ### 2. PR Gagal (Merah)
-![PR Merah](bukti2-pr-merah.png)
+![PR Merah](bukti/2-pr-merah.png)
 
 ### 3. Badge di README
-![Badge](bukti3-badge.png)
+![Badge](bukti/3-badge.png)
 
 ## Link PR
 PR yang sudah di-merge:
