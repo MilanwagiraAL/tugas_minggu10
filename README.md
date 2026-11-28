@@ -3,8 +3,8 @@
 [![CI - Compose Check](https://github.com/MilanwagiraAL/tugas_minggu10/actions/workflows/compose-check.yml/badge.svg)](https://github.com/MilanwagiraAL/tugas_minggu10/actions/workflows/compose-check.yml)
 
 **Nama:** KARMILA
-**NIM:** 202557201012
-**Mata Kuliah:** Sistem Operasi / DevOps
+**NPM:** 202557201012
+**Mata Kuliah:** Teknologi Open Source
 **Repo:** https://github.com/MilanwagiraAL/tugas_minggu10
 
 ## Deskripsi
